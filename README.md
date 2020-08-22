@@ -1,2 +1,1 @@
-# pyProj
-Python projects
+# Some Python projects during learning
